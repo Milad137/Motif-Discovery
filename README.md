@@ -1,7 +1,8 @@
 # MotifDetection
-Modified exact discovery of time series motifs,
+Exact Discovery of Time Series Motifs
 
 Discovery of motifs in 1-D time series using modified method described by http://www.cs.ucr.edu/~mueen/pdf/EM.pdf
+
   Inputs:
     Time series: a python list or numpy array
     ML: Motif length
