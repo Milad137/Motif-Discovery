@@ -4,10 +4,11 @@ Exact Discovery of Time Series Motifs
 Discovery of motifs in 1-D time series using modified method described by http://www.cs.ucr.edu/~mueen/pdf/EM.pdf
 
   Inputs:
-    Time series: a python list or numpy array
-    ML: Motif length
-    K: Major Factor of Clustor Radius, greater than 1 and X
+    Time series: a python list or numpy array,
+    ML: Motif length,
+    K: Major Factor of Clustor Radius, greater than 1 and X,
     X: Minor Factor of Clustor Radius, greater than 1
+    
   Outputs:
     Motifs: in a list of numpy arrays, 
     BSFB: final euclidean distance calculated
